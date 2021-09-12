@@ -22,7 +22,7 @@ Acontinuación describiremos las principales carpetas del proyecto.
 * Completar los datos para la conexión a la base de datos
 * Instalar el JDBC al proyecto, para agregar los drivers necesarios para la conexion a la base de datos
 
-*Tabspace* [mysql-connector-java](mysql-connector-java-8.0.26.jar)
+     [mysql-connector-java](mysql-connector-java-8.0.26.jar)
 
 ## Construido con 🛠️
 
