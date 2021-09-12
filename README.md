@@ -1,9 +1,9 @@
 # MisionTicFy
 
-MisionTicFy es un proyecto en el cual se crea una tienda de musica virtual, esta tienda cuenta con canciones y albunes; y es capaz de administar los datos de autores,
-clientes y las compras que se efectuan por medio de la página.
+MisionTicFy es un proyecto en el cual se crea una tienda de musica virtual, esta tienda cuenta con canciones y álbumes; y es capaz de administrar los datos de autores,
+clientes y las compras que se efectúan por medio de la página.
 
-## Constucción 🚀
+## Construcción 🚀
 
 En este repositorio encontrarás un CRUD, el cual administra la base de datos de MisionTicFy por medio de una interfaz gráfica,
 este proyecto fue construido con la arquitectura MVC.
