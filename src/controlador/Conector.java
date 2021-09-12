@@ -8,9 +8,9 @@ public class Conector {
     private static Connection conn;
     
     public static void conectar(){
-        String dbURL = "jdbc:mysql://localhost:3306/misionticfy";
-        String username = "root";
-        String password = "password";
+        String dbURL = "jdbc:mysql://localhost:3306/...";
+        String username = "...";
+        String password = "...";
         try{
             conn = DriverManager.getConnection(dbURL, username, password);
             if(conn != null){
